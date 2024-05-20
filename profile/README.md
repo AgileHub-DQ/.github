@@ -29,7 +29,9 @@
 
 </div>
 <br>
-<img width="550" alt="image" src="https://github.com/AgileHub-DQ/Backend/assets/82764703/39c91cb3-432a-4b43-870f-f9e76c3c2c8c">
+
+<img width="811" alt="image" src="https://github.com/AgileHub-DQ/Backend/assets/82764703/26a05011-6a72-4521-9e1c-8486e21ca5dd">
+
 <br>
 <br>
 
