@@ -7,24 +7,30 @@
 <br>
 <br>
 
-<b> 🚀 애자일 기반 이슈 추적 웹 서비스 🚀
+<b> 🚀 애자일 기반 이슈 관리 웹 서비스 🚀 </b>
+
+<b>애자일</b>은 변화에 빠르게 적응하고 반복적으로 개선하는 프로젝트 관리 방법이에요.
 <br>
-프로젝트 진행의 모든 순간을 쉽고 빠르게, 당신과 팀의 완벽한 꿀조합으로 관리하세요!</b>
+복잡한 설명 없이도, 우리 서비스로 당신의 프로젝트를 더욱 유연하고 효과적으로 관리해 보세요!
 <br>
 <br>
 
 ## 서비스 소개
 
 ![image2](https://github.com/AgileHub-DQ/Backend/assets/82764703/1c62b721-3f5c-4ff7-809e-39540faa19af)
-
 ![image](https://github.com/AgileHub-DQ/Backend/assets/82764703/bbea2541-5baa-4b46-a85d-24c1c5db71c0)
+
+
+
 
 ### [AgileHub 바로가기 ](https://www.agilehub.store)
 
 <br>
 
 </div>
-
+<br>
+<img width="550" alt="image" src="https://github.com/AgileHub-DQ/Backend/assets/82764703/39c91cb3-432a-4b43-870f-f9e76c3c2c8c">
+<br>
 <br>
 
 ## 🛠️ 기술 스택
