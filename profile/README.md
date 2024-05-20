@@ -15,7 +15,7 @@
 
 ## 서비스 소개
 
-![image2]()
+![image2](https://github.com/AgileHub-DQ/Backend/assets/82764703/1c62b721-3f5c-4ff7-809e-39540faa19af)
 
 ![image]()
 
