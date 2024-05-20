@@ -1,6 +1,6 @@
 <div align="center">
 
-## [AgileHub 바로가기](https://www.agilehub.store)
+## [AgileHub 바로가기](https://www.agilehub.store/)
 
 <img src="https://github.com/AgileHub-DQ/Backend/assets/82764703/e4b936dc-2717-4bb7-b8a3-5794d9ff0c6a" width="30%">
 
