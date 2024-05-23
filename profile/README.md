@@ -18,11 +18,11 @@
 ## 서비스 소개
 
 ![image2](https://github.com/AgileHub-DQ/Backend/assets/82764703/1c62b721-3f5c-4ff7-809e-39540faa19af)
-![image](https://github.com/AgileHub-DQ/Backend/assets/82764703/bbea2541-5baa-4b46-a85d-24c1c5db71c0)
-![스프린트](https://github.com/AgileHub-DQ/Backend/assets/82764703/56907aa4-7a52-4ebf-9881-35bbc8e649c1)
-![백로그찐](https://github.com/AgileHub-DQ/Backend/assets/82764703/233e7723-3729-4b19-ad8f-e5084cc0fda1)
-![타임라인](https://github.com/AgileHub-DQ/Backend/assets/82764703/efbe9c20-b83d-457c-ad9e-8df5b544441e)
-![멤버](https://github.com/AgileHub-DQ/Backend/assets/82764703/92d6806c-c499-456b-8935-e6e3fa05f98a)
+![이슈](https://github.com/AgileHub-DQ/Backend/assets/82764703/ea3a88bb-3a7f-4210-9600-599d006136c8)
+![스프린트](https://github.com/AgileHub-DQ/Backend/assets/82764703/e73ac086-1936-40be-97ed-e45f040b2464)
+![백로그](https://github.com/AgileHub-DQ/Backend/assets/82764703/c1c290b2-b382-4ab0-9df2-3d7d36e55ee3)
+![타임라인](https://github.com/AgileHub-DQ/Backend/assets/82764703/f4fd2094-14e5-44eb-9008-85cda2ec76a4)
+![멤버](https://github.com/AgileHub-DQ/Backend/assets/82764703/9097098b-b180-46f6-9315-caef696719f6)
 
 
 
