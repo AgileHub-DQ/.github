@@ -19,8 +19,8 @@
 ![image2](https://github.com/AgileHub-DQ/Backend/assets/82764703/1c62b721-3f5c-4ff7-809e-39540faa19af)
 ![이슈](https://github.com/AgileHub-DQ/Backend/assets/82764703/83517937-9ecb-450e-9e79-9ae8099eb350)
 ![스프린트](https://github.com/AgileHub-DQ/Backend/assets/82764703/fb6fdd90-acc8-4ae9-bf37-a60e19b91682)
-![백로그](https://github.com/AgileHub-DQ/Backend/assets/82764703/d55709b4-a0d8-415b-a346-7906f1fc40ef)
-![타임라인](https://github.com/AgileHub-DQ/Backend/assets/82764703/8a767b90-6cca-4d7c-b3b4-5fc3addfde49)
+![백로그용GIF](https://github.com/AgileHub-DQ/Backend/assets/82764703/dbb4d960-16e8-41ee-baa2-d6e5abb4a9d5)
+![타임라인](https://github.com/AgileHub-DQ/Backend/assets/82764703/7d02b3e1-62d5-48b8-bfae-6197e84f68c4)
 ![멤버](https://github.com/AgileHub-DQ/Backend/assets/82764703/efbe79ed-9f18-4508-9b63-853ac9e217b6)
 
 
@@ -43,29 +43,29 @@
 
 ### 프론트엔드
 
-<img width="80%" alt="스크린샷 2024-01-22 오후 11 43 16" src="https://github.com/AgileHub-DQ/Backend/assets/82764703/06f863f9-a9e5-4f48-90c4-a03ea935f456">
+<img width="60%" alt="스크린샷 2024-01-22 오후 11 43 16" src="https://github.com/AgileHub-DQ/Backend/assets/82764703/06f863f9-a9e5-4f48-90c4-a03ea935f456">
 
 ### 백엔드
 
-<img width="80%" alt="스크린샷 2024-01-22 오후 11 43 16" src="https://github.com/AgileHub-DQ/Backend/assets/82764703/5ae46555-02d5-41e0-bf05-f9b6cdfa809e">
+<img width="60%" alt="스크린샷 2024-01-22 오후 11 43 16" src="https://github.com/AgileHub-DQ/Backend/assets/82764703/5ae46555-02d5-41e0-bf05-f9b6cdfa809e">
 
 ### 인프라
 
-<img width="80%" alt="스크린샷 2024-01-22 오후 11 44 27" src="https://github.com/AgileHub-DQ/Backend/assets/82764703/80aa0b22-01a3-4b9d-98b9-3d569c9f1647">
+<img width="60%" alt="스크린샷 2024-01-22 오후 11 44 27" src="https://github.com/AgileHub-DQ/Backend/assets/82764703/80aa0b22-01a3-4b9d-98b9-3d569c9f1647">
 
 <br>
 
 ## 서비스 요청 흐름도
 
-<img width="90%" alt="스크린샷 2024-01-22 오후 11 44 27" src="https://github.com/AgileHub-DQ/Backend/assets/82764703/0ee31d45-7faa-42cd-9705-040bbc0d39ef">
+<img width="80%" alt="스크린샷 2024-01-22 오후 11 44 27" src="https://github.com/AgileHub-DQ/Backend/assets/82764703/0ee31d45-7faa-42cd-9705-040bbc0d39ef">
 
 ## CI/CD
 
-<img width="90%" alt="스크린샷 2024-01-22 오후 11 44 27" src="https://github.com/AgileHub-DQ/Backend/assets/82764703/161395f7-eae6-4ff0-ab98-8de072dad09d">
+<img width="80%" alt="스크린샷 2024-01-22 오후 11 44 27" src="https://github.com/AgileHub-DQ/Backend/assets/82764703/161395f7-eae6-4ff0-ab98-8de072dad09d">
 
 ## 모니터링 구조도
 
-<img width="90%" alt="스크린샷 2024-01-22 오후 11 44 27" src="https://github.com/AgileHub-DQ/Backend/assets/82764703/29bdf578-f76b-41dd-9c6f-bbc5ca9b5038">
+<img width="80%" alt="스크린샷 2024-01-22 오후 11 44 27" src="https://github.com/AgileHub-DQ/Backend/assets/82764703/29bdf578-f76b-41dd-9c6f-bbc5ca9b5038">
 
 ## 멤버
 
